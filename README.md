@@ -14,7 +14,7 @@ Download these files into the directory:
 `run-toggle-ethernet-task.vbs`
 
 
-You need to open ethernet.bat in notepad and change the adapter name:
+You need to open `ethernet.bat` in notepad and change the adapter name:
 
         set "ADAPTER=Ethernet"
 
