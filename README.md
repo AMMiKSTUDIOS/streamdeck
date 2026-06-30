@@ -9,8 +9,8 @@ On your PC create the following directory.
 Download these files into the directory:
 
 
-`ethernet-hidden.vbs`
-`ethernet.bat`
+`ethernet-hidden.vbs`,
+`ethernet.bat`,
 `run-toggle-ethernet-task.vbs`
 
 
