@@ -9,9 +9,9 @@ On your PC create the following directory.
 Download these files into the directory:
 
 
-        ethernet-hidden.vbs
-        ethernet.bat
-        run-toggle-ethernet-task.vbs
+`ethernet-hidden.vbs`
+`ethernet.bat`
+`run-toggle-ethernet-task.vbs`
 
 
 You need to open ethernet.bat in notepad and change the adapter name:
